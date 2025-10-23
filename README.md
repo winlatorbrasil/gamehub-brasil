@@ -5,7 +5,7 @@
 <h1 align="center">GameHub-Brasil</h1>
 <p align="center"><strong>Fork brasileiro do GameHub, adaptado e mantido com foco em desempenho, compatibilidade e acessibilidade.</strong></p>
 <p align="center"><strong>Modificado por <a href="https://youtube.com/@FurulipoGames">🎮 Furulipo Games</a></a></strong></p>
-<p align="center"><strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a>, <a href="https://github.com/xxx">🕹️ Cadu</a>, <a href="https://github.com/xxx">🕹️ Alex</a></strong></p>
+<p align="center"><strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a>, <a href="https://github.com/xxx">🕹️ Cadu</a>, <a href="https://github.com/xxx">🕹️ Alex Shoiti</a></strong></p>
 
 <p align="center">
   <a href="https://chat.whatsapp.com/IeH3Va7W9pzFoL2Ln3ixG1">📲 Entre para o nosso grupo no WhatsApp</a>
