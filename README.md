@@ -3,11 +3,9 @@
 </p>
 
 <h1 align="center">GameHub-Brasil</h1>
-<p align="center"><strong>Mod brasileiro do Winlator, adaptado e mantido com foco em desempenho, compatibilidade e acessibilidade.</strong></p>
-<p align="center"><strong>Feito por <a href="https://youtube.com/@FurulipoGames">🎮 Furulipo Games</a>, <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a>, <a href="https://github.com/mpjsilva">🏎️ Mpjsilvaa</a></strong></p>
-<p align="center">
-  🙏 Homenagem especial ao criador original: <a href="https://github.com/brunodev85">brunodev85</a>  
-</p>
+<p align="center"><strong>Fork brasileiro do GameHub, adaptado e mantido com foco em desempenho, compatibilidade e acessibilidade.</strong></p>
+<p align="center"><strong>Modificado por <a href="https://youtube.com/@FurulipoGames">🎮 Furulipo Games</a></a></strong></p>
+<p align="center"><strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a>, <a href="https://github.com/mpjsilva">🕹️ Cadu</a>, <a href="https://github.com/mpjsilva">🕹️ Alex</a></strong></p>
 
 <p align="center">
   <a href="https://chat.whatsapp.com/IeH3Va7W9pzFoL2Ln3ixG1">📲 Entre para o nosso grupo no WhatsApp</a>
@@ -17,7 +15,7 @@
 
 ## 📦 Instalação
 
-1. Baixe o APK mais recente em [GitHub Releases](https://github.com/winlatorbrasil/Winlator-Brasil/releases/tag/Winlator_Brasil_10.0)
+1. Baixe o APK mais recente em [GitHub Releases](https://github.com/winlatorbrasil/gamehub-brasil/releases)
 2. Instale o aplicativo no seu Android
 3. Aguarde a conclusão da instalação inicial
 4. Selecione o renderizador de acordo com o seu chip — veja os requisitos abaixo
@@ -27,7 +25,7 @@
 ## ▶️ Testes em Vídeo
 
 * **Em breve:** Link para demonstrações reais de uso no YouTube
-* Para mais testes e dicas, confira o [canal do criador no YouTube](https://youtube.com/@FurulipoGames)
+* Para mais testes e dicas, confira o [canal do criador no YouTube](https://youtube.com/@winlatorbrasil)
 
 ---
 
@@ -60,13 +58,12 @@
 | **Turnip**   | Adreno 6xx e 7xx                                     |
 | **Vortek**   | Todas as GPUs, incluindo Adreno 8xx e Mali           |
 | **VirGL**    | GPUs variadas (funciona bem com DX9/OpenGL 3.1)      |
-| **LLVMPIPE** | Somente para apps leves (disponível no Winlator 7.1) |
 
 ---
 
 ## ⚙️ Entendendo as Limitações dos Drivers (Explicação Simples)
 
-Nem todos os celulares funcionam igual com o Winlator-Brasil. Isso depende da **GPU** (placa de vídeo do celular) e do **driver**, que age como um "tradutor" entre o jogo e o aparelho.
+Nem todos os celulares funcionam igual com o GameHub-Brasil. Isso depende da **GPU** (placa de vídeo do celular) e do **driver**, que age como um "tradutor" entre o jogo e o aparelho.
 
 ### 📌 Tipos comuns de GPU
 
@@ -127,7 +124,7 @@ Mesmo com boa configuração, alguns jogos podem não funcionar. Continue testan
 
 ## ❓ FAQ – Perguntas Frequentes
 
-### ❗ Preciso desinstalar o Winlator original?
+### ❗ Preciso desinstalar o GameHub original?
 
 Sim. É necessário para evitar conflitos de arquivos.
 
@@ -162,16 +159,17 @@ Agradeço muito! Mas este projeto é gratuito para todos.
 
 ## 👥 Créditos
 
-* **Criador original:** [brunodev85](https://github.com/brunodev85)
+* **Proton Valve:** [Valve](https://github.com/ValveSoftware/Proton)
 * **Box86/Box64**: [ptitSeb](https://github.com/ptitSeb)
 * **Wine**: [winehq.org](https://www.winehq.org)
-* **Mesa3D / Turnip / VirGL**: [mesa3d.org](https://www.mesa3d.org)
+* **VKD3D**: [vkd3d](https://gitlab.freedesktop.org/wine/vkd3d-proton)
+* **Mesa3D / Turnip / VirGL**: [Turnip](https://gitlab.freedesktop.org/mesa/mesa)
 * **DXVK**: [doitsujin](https://github.com/doitsujin/dxvk)
-* **Outros contribuidores**: [afeimod](https://github.com/afeimod/), [MrPhryaNikFrosty](https://github.com/MrPhryaNikFrosty), [ajay9634](https://github.com/ajay9634), [ryanfortner](https://github.com/ryanfortner), [Ph42oN](https://gitlab.com/Ph42oN/dxvk-gplasync), [AlpyneDreams](https://github.com/AlpyneDreams/d8vk), [K11MCH1](https://github.com/K11MCH1/WinlatorTurnipDrivers)
+* **Fex-Emu**: [Fex-Emu](https://github.com/FEX-Emu/FEX)
 
 ---
 
 ## ❤️ Agradecimentos Finais
 
-Muito obrigado a toda a comunidade, testers, desenvolvedores e usuários que apoiam este mod!  
+Muito obrigado a toda a comunidade, testers, desenvolvedores e usuários que apoiam este fork!  
 A jornada continua — e tudo isso só é possível graças a vocês!
