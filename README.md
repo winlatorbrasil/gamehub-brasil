@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/winlatorbrasil/gamehub_api_brasil/a9b8f445b5629de399b9229a1dbc9b7e2c2ac3a2/midia/comm_ic_game_hub_loading_pre_en(1)(1).gif" alt="GameHub Brasil" width="200"/>
+  <img src="https://raw.githubusercontent.com/winlatorbrasil/gamehub_api_brasil/a9b8f445b5629de399b9229a1dbc9b7e2c2ac3a2/midia/comm_ic_game_hub_loading_pre_en(1)(1).gif" alt="GameHub Brasil" width="800"/>
 </p>
 
 <h1 align="center">GameHub-Brasil</h1>
