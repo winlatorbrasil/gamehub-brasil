@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/furulipogames/gamehub-brasil/blob/main/midia/comm_ic_game_hub_loading_pre_en(1)(1).gif" alt="GameHub Brasil" width="200"/>
+  <img src="https://raw.githubusercontent.com/furulipogames/gamehub-brasil/main/midia/comm_ic_game_hub_loading_pre_en(1)(1).gif" alt="GameHub Brasil" width="200"/>
 </p>
 
 <h1 align="center">Winlator-Brasil</h1>
