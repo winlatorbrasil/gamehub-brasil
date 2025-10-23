@@ -31,7 +31,7 @@
 
 ## 🛠️ Dicas e Recursos Úteis
 
-* Problemas de desempenho? Tente mudar para Box86/Box64 em **Configurações do Contêiner > Guia Avançado**
+* Problemas de desempenho? Tente mudar para Box86/Box64 em **Configurações do Jogo > Compatibilidade > Box64**
 * Para apps com .NET Framework, instale o **Wine Mono**
 * Jogos antigos podem precisar da variável `MESA_EXTENSION_MAX_YEAR=2003`
 * Use atalhos personalizados para jogos com configurações específicas
