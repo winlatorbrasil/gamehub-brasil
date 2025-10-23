@@ -24,7 +24,7 @@
 
 ## ▶️ Testes em Vídeo
 
-* **Em breve:** Link para demonstrações reais de uso no YouTube
+* **Gameplays:** Link para demonstrações reais de uso no YouTube
 * Para mais testes e dicas, confira o [canal do criador no YouTube](https://youtube.com/@winlatorbrasil)
 
 ---
