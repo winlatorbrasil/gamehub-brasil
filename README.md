@@ -31,7 +31,7 @@
 
 ## 🛠️ Dicas e Recursos Úteis
 
-* Problemas de desempenho? Tente mudar para Box86/Box64 em **Configurações do Jogo > Compatibilidade > Box64**
+* Problemas de desempenho? Tente mudar para Box86/Box64 em **Configurações do Jogo > Compatibilidade > Tradutor da CPU**
 * Para apps com .NET Framework, instale o **Wine Mono**
 * Jogos antigos podem precisar da variável `MESA_EXTENSION_MAX_YEAR=2003`
 * Use atalhos personalizados para jogos com configurações específicas
@@ -56,8 +56,7 @@
 | Driver       | Compatibilidade                                      |
 | ------------ | ---------------------------------------------------- |
 | **Turnip**   | Adreno 6xx e 7xx                                     |
-| **Vortek**   | Todas as GPUs, incluindo Adreno 8xx e Mali           |
-| **VirGL**    | GPUs variadas (funciona bem com DX9/OpenGL 3.1)      |
+| **Fex**   | Todas as GPUs, incluindo Adreno 8xx e Mali           |
 
 ---
 
@@ -70,8 +69,8 @@ Nem todos os celulares funcionam igual com o GameHub-Brasil. Isso depende da **G
 | Fabricante    | Linha de GPU         | Observações                                            |
 |---------------|----------------------|---------------------------------------------------------|
 | **Qualcomm**  | Adreno (Snapdragon) | Melhor desempenho e compatibilidade com Turnip         |
-| **ARM**       | Mali                 | Funciona com Vortek/VirGL, mas pode ter gráficos quebrados |
-| **Samsung**   | Xclipse (Exynos)     | Pode funcionar com VirGL, mas ainda instável           |
+| **ARM**       | Mali                 | Funciona mas pode ter gráficos quebrados |
+| **Samsung**   | Xclipse (Exynos)     | Pode funcionar mas ainda instável           |
 | **MediaTek**  | Mali                 | Mesmo caso das GPUs Mali — pode ter bugs visuais       |
 
 ---
@@ -81,9 +80,6 @@ Nem todos os celulares funcionam igual com o GameHub-Brasil. Isso depende da **G
 | Driver      | Como funciona |
 |-------------|---------------|
 | **Turnip**  | Muito rápido, mas só funciona bem em Adreno 6xx ou 7xx. Em Adreno 8xx, pode não funcionar direito. |
-| **Vortek**  | Compatível com quase todos os aparelhos. Funciona até em Mali, mas é mais lento que Turnip. |
-| **VirGL**   | Ideal para jogos antigos. Funciona em quase todos os celulares, mas pode travar em jogos novos. |
-| **LLVMPIPE**| Usado apenas para apps leves. Não serve para jogar. |
 
 ---
 
@@ -102,9 +98,7 @@ Se o tradutor não entende direito o jogo ou a GPU, tudo trava, fica feio ou nem
 ### 💡 Qual usar?
 
 - ✅ **Snapdragon com Adreno 6xx/7xx**: Use o **Turnip**
-- 🟡 **Adreno 8xx ou Mali**: Use o **Vortek**
-- 🕹️ **Jogos antigos ou celulares fracos**: Use o **VirGL**
-- 📝 **Apps leves**: Use o **LLVMPIPE**
+- 🟡 **Adreno 8xx ou Mali**: Use o **8Elite**
 
 ---
 
@@ -118,7 +112,6 @@ Mesmo com boa configuração, alguns jogos podem não funcionar. Continue testan
 
 * ❌ Cartão SD pode não ser reconhecido
 * ❌ Drivers OTG USB não detectam unidades
-* ✅ Problemas em Adreno 735, Xinput e VirGL (glibc) já foram resolvidos
 
 ---
 
@@ -139,7 +132,7 @@ Sim, pois os contêineres não são compatíveis entre versões modificadas.
 
 ### 🚫 Meu jogo não abre. E agora?
 
-* Tente alterar o driver (Turnip/Vortek)
+* Tente alterar o driver (Turnip)
 * Verifique a predefinição do Box64
 * Pode ser que o jogo ainda não seja compatível
 
@@ -163,7 +156,7 @@ Agradeço muito! Mas este projeto é gratuito para todos.
 * **Box86/Box64**: [ptitSeb](https://github.com/ptitSeb)
 * **Wine**: [winehq.org](https://www.winehq.org)
 * **VKD3D**: [vkd3d](https://gitlab.freedesktop.org/wine/vkd3d-proton)
-* **Mesa3D / Turnip / VirGL**: [Turnip](https://gitlab.freedesktop.org/mesa/mesa)
+* **Mesa3D / Turnip**: [Turnip](https://gitlab.freedesktop.org/mesa/mesa)
 * **DXVK**: [doitsujin](https://github.com/doitsujin/dxvk)
 * **Fex-Emu**: [Fex-Emu](https://github.com/FEX-Emu/FEX)
 
