@@ -1,5 +1,5 @@
 <p align="center">
-  ![GameHub Brasil](https://gitlab.com/winlatorbrasil-group/gamehub_api_brasil/-/raw/main/midia/comm_ic_game_hub_loading_pre_en__2_.gif)
+  <img src="https://gitlab.com/winlatorbrasil-group/gamehub_api_brasil/raw/main/midia/comm_ic_game_hub_loading_pre_en__2_.gif" alt="GameHub Brasil" width="600"/>
 </p>
 
 <h1 align="center">GameHub-Brasil</h1>
