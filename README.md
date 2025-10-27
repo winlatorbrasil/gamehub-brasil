@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a> • <a href="https://github.com/xxx">🕹️ Cadu</a> • <a href="https://github.com/xxx">🕹️ Alex Shoiti</a></strong>
+  <strong>Testado por <a href="https://github.com/Rhustoxx">🕹️ Rhustoxx</a> • <a href="https://github.com/bche13">🕹️ Cadu</a> • <a href="https://github.com/bche13">🕹️ Alex Shoiti</a> • <a href="https://github.com/bche13">🕹️ Gabriel Leal</a></strong>
 </p>
 
 <p align="center">
