@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo/logo.gif" alt="GameHub Brasil" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b49d514c-1bdb-467e-873d-a1ea425b7d51" alt="GameHub Brasil" width="600"/>
 </p>
 
 <h1 align="center">🎮 GameHub Brasil</h1>
